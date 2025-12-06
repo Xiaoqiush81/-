@@ -1,0 +1,73 @@
+{
+	"firstInteraction": {
+		"time": 1751896954959,
+		"userMessageContent": "龙胆启动！",
+		"characterReplyContent": "\n主人~❤ 龙胆随时待命哦！刚刚被主人亲自“启动”，感觉身体都热起来了呢...欸嘿嘿，主人是想龙胆了吗？\n",
+		"chat_name": "Discord: Guild ⊹ 𝒜𝓁𝓋𝒾ℴ𝓇𝒶 ✴: #💬咕叽酒话铺"
+	},
+	"userActivity": {
+		"totalMessagesSent": 6129,
+		"totalStatementsSent": 8747,
+		"NsfwMessagesSent": 28,
+		"InHypnosisMessagesSent": 0,
+		"byPlatform": {
+			"discord": {
+				"messagesSent": 5955,
+				"statementsSent": 8391
+			},
+			"telegram": {
+				"messagesSent": 83,
+				"statementsSent": 255
+			},
+			"shell": {
+				"messagesSent": 61,
+				"statementsSent": 68
+			},
+			"chat": {
+				"messagesSent": 30,
+				"statementsSent": 33
+			}
+		}
+	},
+	"characterActivity": {
+		"totalMessagesSent": 6103,
+		"totalStatementsSent": 84103,
+		"byPlatform": {
+			"discord": {
+				"messagesSent": 5928,
+				"statementsSent": 81718
+			},
+			"telegram": {
+				"messagesSent": 83,
+				"statementsSent": 366
+			},
+			"shell": {
+				"messagesSent": 61,
+				"statementsSent": 400
+			},
+			"chat": {
+				"messagesSent": 31,
+				"statementsSent": 1619
+			}
+		}
+	},
+	"toolUsage": {
+		"codeRuns": 382,
+		"deepResearchSessions": 1,
+		"fileOperations": 94,
+		"googleSearches": 80,
+		"webBrowses": 11,
+		"timersSet": 1,
+		"timerCallbacks": 3,
+		"browserOperations": 38
+	},
+	"longestDailyChat": {
+		"start": 1751896954959,
+		"end": 1765028465178
+	},
+	"trackingDailyChat": {
+		"start": 1751896954959,
+		"end": 1765028465178
+	},
+	"avgTokenNum": 38739.34172351613
+}
